@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Botini</h1>
-<h3 align="center">Estudante focado em Java Script Fullstack</h3>
+<h3 align="center">Estudante focado em Java Back-End</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
