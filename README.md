@@ -50,6 +50,7 @@
 | Projeto | Tecnologias | Link |
 |--------|------------|------|
 | **Loja virtual FiveM** | React, Node.js, MySQL, API Stripe | 🔗 https://botinicommunity.squareweb.app/ |
+| **Sistema Chá de Panela** | Java, Spring Boot | 🔗 https://github.com/LucaBotini/app-chapanela/ |
 | **Portfólio pessoal** | React, JavaScript | 🔗 https://portfolio-btn.vercel.app/ |
 
 ---
